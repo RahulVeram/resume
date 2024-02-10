@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+#title: "Jekyll Resume Template"
+#description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -49,7 +49,7 @@ resume_section_certificate:    true
   resume_twitter_url:           "https://twitter.com/a_RahulVerma?s=09"
   resume_facebook_url:          "https://www.facebook.com/who.rahulverma/"
   resume_linkedin_url:          "https://www.linkedin.com/in/rahul-verma-a4b12821a/"
-   resume_instagram_url:         "https://www.instagram.com/who.rahulverma/"
+  resume_instagram_url:         "https://www.instagram.com/who.rahulverma/"
 resume_print_social_links:      true
 
 # Design settings
