@@ -1,0 +1,30 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Great Learning Academy
+  role: Google Analytics
+  year: 2022
+  url: C:\Users\Asus\OneDrive\Documents\GitHub\resume\pdf\Google analaytic.pdf
+  summary: Completing Google Analytics | Great Learning Academy
+
+
+- organization: Great Learning Academy
+  role: Django
+  year: 2022
+  url: C:\Users\Asus\OneDrive\Documents\GitHub\resume\pdf\D jango.pdf
+  summary: Completing Django | Great Learning
+
+  
+- organization: Microsoft
+  role: DigiSaksham Program
+  year: 2022-23
+  url: C:\Users\Asus\OneDrive\Documents\GitHub\resume\pdf\digi.pdf
+  summary: successful completion of DigiSaksham Program A joint Digital Skill Inititative by Ministry of Labour & Employment and Microsoft on Essentials of Power BI coursework
+
+
+- organization: N.S.D.C.
+  role: Web Design & Development
+  year: 2023
+  url: C:\Users\Asus\OneDrive\Documents\GitHub\resume\pdf\web.pdf
+  summary: successfully participated in the online skilling course on Web Design & Development - Hindi offered by NSDC through Skill India Digital.
+
