@@ -1,6 +1,3 @@
-title: "resume"
-description: "A resume template"
-markdown: "kramdown"
 sass:
   sass_dir: _sass
   style: compressed
